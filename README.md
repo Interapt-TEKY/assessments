@@ -22,4 +22,4 @@ You will be able to use all resources at your disposal. This includes your code 
 
 #### Completion
 
-When you are finished, and only when you are finished, please submit the link to your Github Repo to [this form.](https://goo.gl/forms/Trycdv1NES3Lu66i2)
+When you are finished, and **only** when you are finished, please submit the link to your Github Repo to [this form.](https://goo.gl/forms/Trycdv1NES3Lu66i2)

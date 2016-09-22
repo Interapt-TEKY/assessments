@@ -6,7 +6,7 @@ Cities is a web app that allows users to view many of their favorite cities loca
 
 **You will have 1hr.**
 
-**You will be able to use all resources at your disposal. This includes your code for Weatherly, but not others Weatherly projects.**
+**You will be able to use any resource at your disposal EXCEPT other students' code.**
 
 Example Card
 <p align="center">

@@ -4,21 +4,21 @@
 
 Cities is a web app that allows users to view many of their favorite cities locations in an embedded google map. This web app will use the same card design as Weatherly.
 
-You will be required to keep all of your code in a Github repo.
+**You will have 1hr.**
 
-You will be able to use all resources at your disposal. This includes your code for Weatherly, but not others Weatherly projects.
+**You will be able to use all resources at your disposal. This includes your code for Weatherly, but not others Weatherly projects.**
 
-**Example Card**
+Example Card
 <p align="center">
   <img src="http://i.imgur.com/ucbCgVb.png/">
 </p>
 
 #### Tasks and Requirements
 
+  - Create a remote repo on Github and consistently commit your changes. 
   - Be able to input a location and view the location in an embedded Google Map
   - Be able to dynamically add and remove cards.
   - The Google Map should have a pin on the input location.
-  - Keep your changes in a 
 
 #### Completion
 

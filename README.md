@@ -6,6 +6,9 @@ Cities is a web app that allows users to view many of their favorite cities loca
 
 You will be able to use all resources at your disposal. This includes your code for Weatherly, but not others Weatherly projects.
 
+Example Card
+![Example Card](http://imgur.com/ucbCgVb)
+
 #### Tasks and Requirements
 
   - Be able to input a location and view the location in an embedded Google Map

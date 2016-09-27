@@ -1,10 +1,10 @@
 # TEKY Weekly Assessments
 
-## Week 2 - Cities
+## Maply
 
-Cities is a web app that allows users to view many of their favorite cities locations in an embedded google map. This web app will use the same card design as Weatherly.
+Maply is a web app that allows users to view many of their favorite cities locations in an embedded google map. This web app will use the same card design as Weatherly.
 
-**You will have 1hr.**
+**You will have 2 hours.**
 
 **You will be able to use any resource at your disposal EXCEPT other students' code.**
 
@@ -13,13 +13,19 @@ Example Card
   <img src="http://i.imgur.com/ucbCgVb.png/">
 </p>
 
+#### Resources
+
+- [Embedding a Google Map](https://developers.google.com/maps/documentation/javascript/tutorial)
+- [Creating a Marker](https://developers.google.com/maps/documentation/javascript/markers)
+
 #### Tasks and Requirements
 
-  - Create a remote repo on Github and consistently commit your changes. 
-  - Be able to input a location and view the location in an embedded Google Map
-  - Be able to dynamically add and remove cards.
-  - The Google Map should have a pin on the input location.
+  - User should be able to input any location (zip, city, or state)
+  - Users' location should be translated into latitude and longitude using the Google Maps Geocoding API.
+  - User should see their location in an embedded Google Map.
+  - User should see a marker on their location in the map.
+  - User should be able to add more than one location and remove other locations.
 
 #### Completion
 
-When you are finished, and **only** when you are finished, please submit the link to your Github Repo to [this form.](https://goo.gl/forms/Trycdv1NES3Lu66i2)
+When you are finished, and **only** when you are finished, please submit the link to a Github repo with your project to [this form.](https://goo.gl/forms/Trycdv1NES3Lu66i2)

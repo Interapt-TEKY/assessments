@@ -6,7 +6,7 @@ Maply is a web app that allows users to view many of their favorite cities locat
 
 **You will have 2 hours.**
 
-**You will be able to use any resources you can find EXCEPT other students' code.**
+**You will be able to use any resources you can find EXCEPT other students' code and TAs.**
 
 Example Card
 <p align="center">

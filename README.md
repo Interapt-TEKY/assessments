@@ -28,6 +28,6 @@ Example Card
 
 #### Completion
 
-When you are finished, and **only** when you are finished, please submit the link to a Github repo with your project to the form below.
+When you are finished, and **only** when you are finished, please submit the link to your Github pages with your project to the form below.
 
 [Week 3 Assessment Submittal Form](https://goo.gl/forms/rUHqET8eLfeYYUFC3)

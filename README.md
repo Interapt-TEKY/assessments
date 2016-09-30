@@ -6,14 +6,14 @@ Maply is a web app that allows users to view many of their favorite cities locat
 
 **You will have 2 hours.**
 
-**You will be able to use any resource at your disposal EXCEPT other students' code.**
+**You will be able to use any resources you can find EXCEPT other students' code.**
 
 Example Card
 <p align="center">
   <img src="http://i.imgur.com/ucbCgVb.png/">
 </p>
 
-#### Resources
+#### Resources That Might Help
 
 - [Embedding a Google Map](https://developers.google.com/maps/documentation/javascript/tutorial)
 - [Creating a Marker](https://developers.google.com/maps/documentation/javascript/markers)
@@ -28,4 +28,6 @@ Example Card
 
 #### Completion
 
-When you are finished, and **only** when you are finished, please submit the link to a Github repo with your project to [this form.](https://goo.gl/forms/Trycdv1NES3Lu66i2)
+When you are finished, and **only** when you are finished, please submit the link to a Github repo with your project to the form below.
+
+[Week 3 Assessment Submittal Form](https://goo.gl/forms/rUHqET8eLfeYYUFC3)
